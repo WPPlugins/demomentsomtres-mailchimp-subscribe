@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DeMomentSomTres MailChimp Subscribe v1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-06-30 08:15:16+0000\n"
+"Last-Translator: marc <marc@demomentsomtres.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: dms3-mailchimp-subscribe.php:71
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Mailchimp Subscribe"
+msgstr "Subscripció a MailChimp"
+
+#: dms3-mailchimp-subscribe.php:81
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "DeMomentSomTres - MailChimp Subscribe"
+msgstr "Subscripció de Mailchimp de DeMomentSomTres"
+
+#: dms3-mailchimp-subscribe.php:86
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Save Changes"
+msgstr "Desar"
+
+#: dms3-mailchimp-subscribe.php:90
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Options"
+msgstr "Opcions"
+
+#: dms3-mailchimp-subscribe.php:102
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "General Options"
+msgstr "Paràmetres generals"
+
+#: dms3-mailchimp-subscribe.php:103
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Lists and groups"
+msgstr "Llistes i grups"
+
+#: dms3-mailchimp-subscribe.php:105
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Mailchimp API Key"
+msgstr "Clau API de MailChimp"
+
+#: dms3-mailchimp-subscribe.php:106
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Subscription Double Optin"
+msgstr "Doble confirmació en la subscripció"
+
+#: dms3-mailchimp-subscribe.php:107
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Subcription Welcome Message"
+msgstr "Missatge de benvinguda en la subscripció"
+
+#: dms3-mailchimp-subscribe.php:212
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Select which list allow user subscriptions and subscription parameters"
+msgstr "Seleccioneu les llistes que permeten subscripcions i informeu-ne els paràmetres"
+
+#: dms3-mailchimp-subscribe.php:213
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "It is not recommended to allow users to subscribe to lists and lists with groupings"
+msgstr "És recomanable no permetre simultàniament la subscripció a una llista i als seus grups"
+
+#: dms3-mailchimp-subscribe.php:230
+#: dms3-mailchimp-subscribe.php:471
+#: dms3-mailchimp-subscribe.php:701
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "List"
+msgstr "Llista"
+
+#: dms3-mailchimp-subscribe.php:233
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Grouping"
+msgstr "Agrupació"
+
+#: dms3-mailchimp-subscribe.php:236
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Group"
+msgstr "Grup"
+
+#: dms3-mailchimp-subscribe.php:239
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Subscribers"
+msgstr "Subscriptors"
+
+#: dms3-mailchimp-subscribe.php:242
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Can subscribe"
+msgstr "Admet subscriptors"
+
+#: dms3-mailchimp-subscribe.php:245
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Name to show"
+msgstr "Nom per presentar la llista"
+
+#: dms3-mailchimp-subscribe.php:266
+#: dms3-mailchimp-subscribe.php:284
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "without group selection"
+msgstr "Sense cap grup seleccionat"
+
+#: dms3-mailchimp-subscribe.php:428
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Subscribed"
+msgstr "Subscrit"
+
+#: dms3-mailchimp-subscribe.php:435
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Unsubscribe"
+msgstr "Deixar de rebre"
+
+#: dms3-mailchimp-subscribe.php:452
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Subscribe"
+msgstr "Subscriu'me"
+
+#: dms3-mailchimp-subscribe.php:465
+#: dms3-mailchimp-subscribe.php:556
+#: dms3-mailchimp-subscribe.php:622
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Email cannot be empty"
+msgstr "Cal informar el correu electrònic"
+
+#: dms3-mailchimp-subscribe.php:472
+#: dms3-mailchimp-subscribe.php:702
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Status"
+msgstr "Estat"
+
+#: dms3-mailchimp-subscribe.php:473
+#: dms3-mailchimp-subscribe.php:703
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Actions"
+msgstr "Accions"
+
+#: dms3-mailchimp-subscribe.php:577
+#, php-format
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Error while trying to subscribe %s,"
+msgstr "S'ha produït un error mentre s'intentava subscriure %s."
+
+#: dms3-mailchimp-subscribe.php:579
+#: dms3-mailchimp-subscribe.php:606
+#, php-format
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "The email address %s has been subscribed"
+msgstr "S'ha cursat la subscripció per a %s."
+
+#: dms3-mailchimp-subscribe.php:632
+#: dms3-mailchimp-subscribe.php:660
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Unsubscribed"
+msgstr "Subscripció cancel·lada"
+
+#: dms3-mailchimp-subscribe.php:635
+#: dms3-mailchimp-subscribe.php:663
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "An error happened while unsubscribing"
+msgstr "S'ha produït un error al cancel·lar la subscripció"
+
+#: dms3-mailchimp-subscribe.php:670
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Trying to unsubscribe from a list you are not subscribed"
+msgstr "Esteu intentant cancel·lar una subscripció inexistent"
+
+#: dms3-mailchimp-subscribe.php:689
+#: dms3-mailchimp-subscribe.php:816
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Your email:"
+msgstr "Email:"
+
+#: dms3-mailchimp-subscribe.php:691
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Verify subscriptions"
+msgstr "Comprovar subscripcions"
+
+#: dms3-mailchimp-subscribe.php:732
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Manages subscritions to lists and groups"
+msgstr "Gestiona les subscripcions a llistes i grups"
+
+#: dms3-mailchimp-subscribe.php:734
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Subscribe and unsubscribe from a list"
+msgstr "DeMomentSomTres MailChimp"
+
+#: dms3-mailchimp-subscribe.php:746
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Subscribe me"
+msgstr "Subscriu-me"
+
+#: dms3-mailchimp-subscribe.php:750
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Title:"
+msgstr "Títol:"
+
+#: dms3-mailchimp-subscribe.php:756
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Mailchimp List:"
+msgstr "Llista de MailChimp:"
+
+#: dms3-mailchimp-subscribe.php:762
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "-- None --"
+msgstr "-- Cap --"
+
+#: dms3-mailchimp-subscribe.php:774
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Intro Text (can contain html tags):"
+msgstr "Text introductori (pot contenir etiquetes HTML):"
+
+#: dms3-mailchimp-subscribe.php:780
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Bottom Text (can contain html tags):"
+msgstr "Text de tancament (també pot contenir etiquetes html):"
+
+#: dms3-mailchimp-subscribe.php:786
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Button text:"
+msgstr "Text del botó:"
+
+#: dms3-mailchimp-subscribe.php:108
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Show Initial List"
+msgstr "Mostrar les llistes inicialment"
+
+#: dms3-mailchimp-subscribe.php:156
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "If checked double opt-in is used to subscribe users to Lists (not groups)."
+msgstr "Si està seleccionat els usuaris se subscriuran amb doble confirmació a les llistes (no als grups)."
+
+#: dms3-mailchimp-subscribe.php:158
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "WARNING: It is not recommended to use this feature as the user would not be able to subscribe to any group until the confirmation instructions are followed."
+msgstr "ATENCIÓ: no es recomana utilitzar aquesta funcionalitat ja que els usuaris no es podran subscriure a cap altre grup fins que no hagin confirmat les instruccions que rebran per correu electrònic."
+
+#: dms3-mailchimp-subscribe.php:173
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Determines if a welcome message is sent by MailChimp after a user is subscribed to a List."
+msgstr "Si està marcat, s'enviarà un missatge de benvinguda des de MailChimp quan l'usuari se subscrigui a una llista."
+
+#: dms3-mailchimp-subscribe.php:175
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "WARNING: It does not send a message if the user subscribes to a group that is not the first of the list."
+msgstr "ATENCIÓ: No envia missatges si l'usuari se subscriu a un grup, a excepció que sigui el primer de la llista."
+
+#: dms3-mailchimp-subscribe.php:189
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Determines if an initial list is shown in the shortcode page before the user enters an email address"
+msgstr "Si està marcat, al shortcode de subscripció es mostrarà una llista de les llistes malgrat que l'usuari no hagi introduït el seu correu electrònic."
+
+#: dms3-mailchimp-subscribe.php:468
+#, php-format
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Lists subscriptions for %s"
+msgstr "Subscripcions a llistes per %s"
+
+#: dms3-mailchimp-subscribe.php:694
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "If you put your email and click on &apos;Verify subscriptions&apos; you will see all your subscriptions and you could manage them."
+msgstr "Escriviu la vostra adreça de correu electrònic i selecccioneu &quot;Comprovar subscripcions&quot;. Automàticament apareixerà el llistat de Blogs als que esteu subscrits i podreu gestionar la vostra subscripció."
+
+#: dms3-mailchimp-subscribe.php:698
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Lists subscriptions"
+msgstr "Subscripcions a llistes"
+
+#: dms3-mailchimp-subscribe.php:690
+#: dms3-mailchimp-subscribe.php:817
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Your email"
+msgstr "Email"
+
+#: dms3-mailchimp-subscribe.php:109
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Google Analytics Integration"
+msgstr "Integració amb Google Analytics"
+
+#: dms3-mailchimp-subscribe.php:201
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Each one of the buttons sends its own event to Google Analytics."
+msgstr "Cadascun dels botons envia un esdeveniment a Google Analytics."
+
+#: dms3-mailchimp-subscribe.php:203
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "WARNING: It only works with analytics.js. It does not work with ga.js."
+msgstr "ATENCIÓ: només funciona amb analytics.js. No funciona amb ga.js."
+
+#: dms3-mailchimp-subscribe.php:445
+#@ DeMomentSomTres-MailChimp-Subscribe
+msgid "Not subscribed"
+msgstr "No subscrit"
+
